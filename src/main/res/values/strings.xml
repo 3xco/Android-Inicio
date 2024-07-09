@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AndroidInicio</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="male">HOMBRE</string>
+    <string name="female">MUJER</string>
+    <string name="height">ALTURA</string>
+    <string name="weight">PESO</string>
+    <string name="age">EDAD</string>
+    <string name="heighthint">Desliza para aumentar la altura</string>
+    <string name="calculate">CALCULAR</string>
+    <string name="recalculate">VOLVER A CALCULAR</string>
+    <string name="result">TU RESULTADO: </string>
+    <string name="error">ERROR!!!</string>
+    <string name="imc1">Bajo peso</string>
+    <string name="imc1d">Su peso esta en la categoría de Bajo peso para adultos de su estatura. El IMC es una medida de detección y no para diagnosticar enfermedades o padecimientos. </string>
+    <string name="imc2">Peso normal</string>
+    <string name="imc2d">Su peso esta en la categoría de Peso saludable para adultos de su estatura. El IMC es una medida de detección y no para diagnosticar enfermedades o padecimientos.</string>
+    <string name="imc3">Sobrepeso</string>
+    <string name="imc3d">Su peso esta en la categoría de Sobrepeso para adultos de su estatura. El IMC es una medida de detección y no para diagnosticar enfermedades o padecimientos.</string>
+    <string name="imc4">Obesidad</string>
+    <string name="imc4d">Su peso esta en la categoría de Obeso para adultos de su estatura. El IMC es una medida de detección y no para diagnosticar enfermedades o padecimientos.</string>
+    <string name="todo">Let\'s Do It</string>
+    <string name="todo_category">Categorias</string>
+    <string name="todo_task">Tareas</string>
+    <string name="hint_todo">Añade la tarea</string>
+    <string name="todo_Business">Negocios</string>
+    <string name="todo_Personal">Personal</string>
+    <string name="todo_Other">Otros</string>
+    <string name="todo_add">Añadir tarea</string>
+
+</resources>

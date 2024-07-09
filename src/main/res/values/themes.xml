@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/material_dynamic_primary30</item>
+        <item name="colorOnPrimary">@color/material_dynamic_primary90</item>
+        <item name="colorPrimaryContainer">@color/material_dynamic_primary80</item>
+        <item name="colorOnPrimaryContainer">@color/material_dynamic_primary10</item>
+        <item name="colorSecondary">@color/material_dynamic_secondary30</item>
+        <item name="colorOnSecondary">@color/material_dynamic_secondary90</item>
+        <item name="colorSecondaryContainer">@color/material_dynamic_secondary80</item>
+        <item name="colorOnSecondaryContainer">@color/material_dynamic_secondary10</item>
+        <item name="android:buttonStyle">@style/Widget.Material3.Button</item>
+    </style>
+
+    <style name="Theme.ToDoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/material_dynamic_primary30</item>
+        <item name="colorOnPrimary">@color/material_dynamic_primary90</item>
+        <item name="colorPrimaryContainer">@color/material_dynamic_primary80</item>
+        <item name="colorOnPrimaryContainer">@color/material_dynamic_primary10</item>
+        <item name="colorSecondary">@color/material_dynamic_secondary30</item>
+        <item name="colorOnSecondary">@color/material_dynamic_secondary90</item>
+        <item name="colorSecondaryContainer">@color/material_dynamic_secondary80</item>
+        <item name="colorOnSecondaryContainer">@color/material_dynamic_secondary10</item>
+        <item name="android:buttonStyle">@style/Widget.Material3.Button</item>
+    </style>
+
+    <style name="TodoSubtitle">
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">@color/todo_subtitle_text</item>
+    </style>
+</resources>

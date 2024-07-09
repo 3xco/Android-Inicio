@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AndroidInicio" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.ToDoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/material_dynamic_primary30</item>
+        <item name="colorOnPrimary">@color/material_dynamic_primary90</item>
+        <item name="colorPrimaryContainer">@color/material_dynamic_primary80</item>
+        <item name="colorOnPrimaryContainer">@color/material_dynamic_primary10</item>
+        <item name="colorSecondary">@color/material_dynamic_secondary30</item>
+        <item name="colorOnSecondary">@color/material_dynamic_secondary90</item>
+        <item name="colorSecondaryContainer">@color/material_dynamic_secondary80</item>
+        <item name="colorOnSecondaryContainer">@color/material_dynamic_secondary10</item>
+        <item name="android:buttonStyle">@style/Widget.Material3.Button</item>
+    </style>
+
+    <style name="TodoSubtitle">
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">@color/todo_subtitle_text</item>
+    </style>
+</resources>
